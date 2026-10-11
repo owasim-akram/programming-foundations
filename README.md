@@ -1,2 +1,2 @@
 # programming-foundations
-My C, C++, and Python programming fundamentals and practice.
+My C, C++, and Python programming fundamentals and practices.
